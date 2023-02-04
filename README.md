@@ -1,2 +1,2 @@
-# movie-lib
-Movie Library API for a technical challenge
+# My Express Base Template
+A Template for my Express APP with Typescript
